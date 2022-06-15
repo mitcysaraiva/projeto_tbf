@@ -1,0 +1,153 @@
+.título{
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+}
+.t{
+    color:#FF2BA9;
+}
+.b{
+    color: #FF522D;
+}
+.f{
+    color: #15AD1F;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 600px;
+    bottom: 175px;
+}
+.papo{
+    text-align: center;
+    position: relative;
+    right: 40px;
+    bottom: 290px;
+    font-size: 25px;
+}
+.menu{
+    background-color:#DDDAB8 ;
+    height: 70px;
+    width: 1920px;
+    position: relative;
+    bottom: 220px;
+    right: 5px;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+
+
+    
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+.me{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    font-family: monospace;
+    word-spacing: 200px;
+    font-size: 25px;
+    left: 40px;
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+    
+}
+.me a:hover:before{
+    text-decoration: none;
+}
+.me a:hover{
+    text-decoration: underline;
+    color: #717de4;;
+    text-shadow: 0 0 4px #717de4;
+}
+.insta{
+    position: relative;
+    width: 35px;
+    height: 35px;
+    bottom: 80px;
+    left: 20px;
+}
+.inicio{
+    color: black
+}
+.pesquisa{
+   color: black
+}
+.depoimentos{
+   color: black
+}
+.sobre{
+   color: black;
+}
+
+
+.diversidade{
+    
+    position: relative;
+    bottom: 260px;
+    left: 530px;
+    font-size: 80px;
+    color: #5670e2;
+}
+
+.texto1{
+    font-family: 'Available';
+    text-align: center;
+    font-size: 27px;
+    position: relative;
+    right: 65px;
+    bottom: 320px;
+}
+.texto2{
+    font-family: 'Available';
+    text-align: center;
+    font-size: 27px;
+    position: relative;
+    right: 65px;
+    bottom: 320px;
+}
+
+#rodapé{
+    background-color:#DDDAB8;
+    height: 290px;
+    width: 1930px;
+    position: relative;
+    right: 5px;
+    top: 5px;
+
+}
+.ligue{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    right: 500px;
+    font-family: 'Arial';
+}
+.ligue188{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.cvv{
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 29px;
+}
+.espaço{
+    line-height: 40px;
+}
+.textocvv{
+    font-size: 17px;
+}
+.arroba{
+    font-size: 29px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    line-height: 15px;
+}
